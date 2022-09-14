@@ -2,7 +2,7 @@
 
 This is the PyTorch implementation for our paper: **MBA-RainGAN: A Multi-Branch Attention Generative Adversarial Network for Mixture of Rain Removal**
 
-Download the RainCityscapes++ training and validation images from [Baidu Cloud](https://pan.baidu.com/s/19tPWnuxoaCHzLZU5e7TFIg). The extracting code is jpqg.
+Download the RainCityscapes++ training and validation images from [Baidu Cloud](https://pan.baidu.com/s/19tPWnuxoaCHzLZU5e7TFIg). The extracting code is **jpqg**.
 
 The code is coming soon.
 
